@@ -8,9 +8,9 @@
   <Description DefaultValue="A way of syncronising calendars to demonstrate you are a singular resource."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://www.andylockran.dev/twofacedcalendar/help"/>
+  <SupportUrl DefaultValue="https://www.andylockran.dev/2fc/help"/>
   <AppDomains>
-    <AppDomain>https://www.andylockran.dev</AppDomain>
+    <AppDomain>https://www.andylockran.dev/2fc/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
